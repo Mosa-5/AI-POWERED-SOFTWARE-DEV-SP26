@@ -2,7 +2,7 @@
 
 **Course:** CS-AI-2025 — Building AI-Powered Applications | Spring 2026  
 **Week:** 1 of 15  
-**Date:** Friday, 6 March 2026  
+**Date:** Friday, 13 March 2026  
 **Group A:** 09:00 – 11:00 | **Group B:** 11:00 – 13:00  
 **Location:** Computer Science Lab, Kutaisi International University  
 **Instructor:** Professor Zeshan Ahmad — zeshan.ahmad@kiu.edu.ge
@@ -51,7 +51,7 @@ The last half hour is dedicated to walking through Homework 1, answering setup q
 
 ---
 
-## Homework 1: Individual — Due Before Lab 2 (Friday 13 March 2026)
+## Homework 1: Individual — Due Before Lab 2 (Friday 20 March 2026)
 
 > **This is your first individual homework assignment.** It is worth **5 participation points**. Submit before your Lab 2 session (Group A: 09:00, Group B: 11:00). This is a setup and exploration assignment — two model calls, a cost table, and a short reflection.
 
@@ -63,7 +63,7 @@ Full details, requirements, and the submission checklist are in [`homework/hw1-i
 - `.env.example` showing the variable name (never your real key)
 - Your GitHub repository link submitted via the course LMS
 
-**Late policy:** 10% deducted per day. No submissions accepted after Sunday 15 March at 23:59.
+**Late policy:** 10% deducted per day. No submissions accepted after Sunday 22 March at 23:59.
 
 ---
 
@@ -205,7 +205,7 @@ These are the concepts from Thursday's lecture that today's exercises will make 
 
 ## Looking Ahead: What Lab 2 Will Expect
 
-Lab 2 (Friday 13 March) will assume that every student has a working Python environment and a Gemini API key. It will also introduce OpenRouter with your organizational credits. Lab 2 is where teams form and the capstone project begins — so arrive having completed Homework 1 and with ideas about what kind of AI application you want to spend the semester building.
+Lab 2 (Friday 20 March) will assume that every student has a working Python environment and a Gemini API key. It will also introduce OpenRouter with your organizational credits. Lab 2 is where teams form and the capstone project begins — so arrive having completed Homework 1 and with ideas about what kind of AI application you want to spend the semester building.
 
 ---
 
