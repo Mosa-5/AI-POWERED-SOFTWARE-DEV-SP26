@@ -1,0 +1,15 @@
+# Environment variables — NEVER commit these
+.env
+.env.local
+.env.*.local
+
+# Virtual environment — always excluded
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor files
+.vscode/
+.idea/
+*.swp
